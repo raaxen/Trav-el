@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <>
-        <section id="home" className="bg-[#F9FAFB] text-white min-h-screen flex items-center justify-center">
+        <section id="home" className="bg-cover object-contain bg-center min-h-screen flex items-center justify-center ">
 
         </section>
      </>
